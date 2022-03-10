@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
                 alert("Hello EVERY");
 
             } else {
-                //targetImage.classList.add("small");
+                targetImage.classList.add("small");
                                 alert("Hello Y");
             }
         //targetImage.classList.add("small");
