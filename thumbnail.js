@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) {
     alert("Hello JavaScript");
-    <img src="http://static.runoob.com/images/demo/demo1.jpg">
+    //<img src="http://static.runoob.com/images/demo/demo1.jpg">
     //class="small";
     //let targetImage = document.querySelector("#smart-image");
    // id="smart-image <img src="https://www.adalab.cn/images/adalab.png">；
