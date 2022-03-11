@@ -5,11 +5,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
     targetImage.addEventListener("click", function() {
         if (targetImage.classList.contains("small")) {
                 targetImage.classList.remove("small");
-                alert("Hello EVERY");
+               // alert("Hello EVERY");
 
             } else {
                 targetImage.classList.add("small");
-                                alert("Hello Y");
+                               // alert("Hello Y");
             }
         //targetImage.classList.add("small");
        // targetImage.classList.remove("small");
